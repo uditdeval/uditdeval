@@ -28,27 +28,17 @@ Building AI-powered solutions and contributing to open source while learning sca
 
 <p align="center">
 
-<img src="assets/badges/contributor.jpg" width="140"/>
+<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/badge%20contributer.jpg" width="150"/>
 
-<img src="assets/badges/open-source-track.jpg" width="140"/>
+<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/badge%20open%20souce%20tracks.jpg" width="150"/>
 
-<img src="assets/badges/profile_complete.png" width="140"/>
+<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/gssoc-badge-bounty_master.png" width="150"/>
 
-<img src="assets/badges/discord_verified.png" width="140"/>
-
-</p>
-
-<p align="center">
-
-<img src="assets/badges/first_step.png" width="140"/>
-
-<img src="assets/badges/point_scorer.png" width="140"/>
-
-<img src="assets/badges/bounty_hunter.png" width="140"/>
-
-<img src="assets/badges/bounty_master.png" width="140"/>
+<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/gssoc-badge-discord_verified.png" width="150"/>
 
 </p>
+
+
 
 ---
 
@@ -56,7 +46,7 @@ Building AI-powered solutions and contributing to open source while learning sca
 
 ### AWS Academy Cloud Foundations
 
-<img src="assets/aws-badge.png" width="180"/>
+[<img src="assets/aws-badge.png" width="180"/>](https://raw.githubusercontent.com/uditdeval/uditdeval/main/AWS%20BADGE.pdf)
 
 ---
 
