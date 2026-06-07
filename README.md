@@ -27,15 +27,10 @@ Building AI-powered solutions and contributing to open source while learning sca
 # 🏆 GSSoC 2026 Achievements
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/badge%20contributer.jpg" width="150"/>
-
-<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/badge%20open%20souce%20tracks.jpg" width="150"/>
-
-<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/gssoc-badge-bounty_master.png" width="150"/>
-
-<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/gssoc-badge-discord_verified.png" width="150"/>
-
+  <img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/assets/badges/badge%20contributer.jpg" width="150"/>
+  <img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/assets/badges/badge%20open%20souce%20tracks.jpg" width="150"/>
+  <img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/assets/badges/gssoc-badge-bounty_master.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/assets/badges/gssoc-badge-discord_verified.png" width="150"/>
 </p>
 
 
