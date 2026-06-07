@@ -1,33 +1,62 @@
 <h1 align="center">Hi 👋, I'm Udit Deval</h1>
-<h3 align="center">AI/ML Enthusiast • Open Source Contributor • Python Developer</h3>
+
+<h3 align="center">
+AI/ML Enthusiast • Open Source Contributor • Python Developer
+</h3>
 
 <p align="center">
-Building intelligent solutions with Machine Learning, Data Analytics, and Full Stack Development.
+Building AI-powered solutions and contributing to open source while learning scalable systems and cloud technologies.
 </p>
 
 ---
 
 # 🚀 About Me
 
-🔭 Building AI/ML projects focused on solving real-world problems
+🔭 Building AI/ML projects with real-world impact
 
-🌱 Currently learning Machine Learning, DSA, Cloud Computing, and Scalable Systems
+🌱 Currently learning Machine Learning, DSA, Cloud Computing & System Design
 
-👯 Open to collaborating on AI, ML, Data Analytics, and Open Source projects
+👯 Open to collaborating on AI, ML, Open Source and Full-Stack Projects
 
-💡 Passionate about turning ideas into useful products
+💬 Ask me about Python, Machine Learning, GitHub, Open Source and Project Development
 
-⚡ Belief: Consistency beats talent when talent is inconsistent.
+⚡ Fun Fact: Consistency beats talent when talent doesn't stay consistent.
 
 ---
 
-# 🏆 Achievements & Certifications
+# 🏆 GSSoC 2026 Achievements
 
-- 🥇 GSSoC 2026 Contributor
-- 🌍 GSSoC 2026 Open Source Track
-- ☁️ AWS Academy Cloud Foundations Certified / Trained
-- 💻 Active Open Source Contributor
-- 🎯 Bounty Master – GSSoC 2026
+<p align="center">
+
+<img src="assets/badges/contributor.jpg" width="140"/>
+
+<img src="assets/badges/open-source-track.jpg" width="140"/>
+
+<img src="assets/badges/profile_complete.png" width="140"/>
+
+<img src="assets/badges/discord_verified.png" width="140"/>
+
+</p>
+
+<p align="center">
+
+<img src="assets/badges/first_step.png" width="140"/>
+
+<img src="assets/badges/point_scorer.png" width="140"/>
+
+<img src="assets/badges/bounty_hunter.png" width="140"/>
+
+<img src="assets/badges/bounty_master.png" width="140"/>
+
+</p>
+
+---
+
+# ☁️ Certifications
+
+### AWS Academy Cloud Foundations
+
+<img src="assets/aws-badge.png" width="180"/>
 
 ---
 
@@ -36,7 +65,7 @@ Building intelligent solutions with Machine Learning, Data Analytics, and Full S
 <p align="left">
 <a href="https://linkedin.com/in/uditdeval-19v">LinkedIn</a> •
 <a href="https://github.com/uditdeval">GitHub</a> •
-<a href="https://x.com/UditDeval">X (Twitter)</a> •
+<a href="https://x.com/UditDeval">Twitter/X</a> •
 <a href="https://instagram.com/uditdeval_">Instagram</a> •
 <a href="mailto:uditdeval39@gmail.com">Email</a>
 </p>
@@ -55,59 +84,78 @@ TensorFlow • Scikit-Learn • Pandas • NumPy • Matplotlib
 React • Flask • Bootstrap
 
 ### Databases
-MySQL • MongoDB
+MongoDB • MySQL
 
 ### Tools & Platforms
-Git • GitHub • AWS • Vercel • Render • Figma • Canva
+Git • GitHub • AWS • Vercel • Render • Figma
 
 ---
 
 # 🌟 Featured Projects
 
 ## 🧠 StudyAI
-AI-powered educational platform focused on enhancing student learning experiences.
+AI-powered educational assistant designed to improve student learning and productivity.
 
 ## 🩺 SkinSafe
-Machine Learning-based skin disease prediction and awareness platform.
+Machine Learning based skin disease prediction and awareness platform.
 
 ## ✍️ BlogIsland
-Modern blogging platform with clean UI and content management features.
+Modern blogging platform with authentication and content management.
 
 ## 🎬 Netflix Frontend Clone
-Responsive Netflix-inspired frontend built using modern web technologies.
+Responsive Netflix inspired UI built using modern frontend technologies.
 
 ---
 
 # 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=uditdeval&theme=github_dark&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=uditdeval&theme=tokyonight&show_icons=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=uditdeval&theme=github-dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=uditdeval&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uditdeval&layout=compact&theme=github_dark)
-
----
-
-# 🏅 Open Source Journey
-
-- Contributor at GSSoC 2026
-- Working on Documentation & Open Source Contributions
-- Building a strong open-source profile through meaningful PRs
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uditdeval&layout=compact&theme=tokyonight)
 
 ---
 
-# 📈 GitHub Trophies
+# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=uditdeval&theme=algolia&margin-w=10)
-
----
-
-# 💬 Developer Quote
-
-> "Great software is built one consistent day at a time."
+![](https://github-profile-trophy.vercel.app/?username=uditdeval&theme=algolia&no-frame=true&margin-w=8)
 
 ---
 
-### 👀 Profile Views
+# 📈 Contribution Graph
+
+[![Udit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uditdeval&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# ✨ Open Source Journey
+
+🏅 GSSoC 2026 Contributor
+
+🌍 Open Source Track Participant
+
+🚀 Actively Contributing to Open Source Projects
+
+💡 Working toward becoming a top-ranked contributor
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=uditdeval&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+# 👀 Profile Visitors
 
 ![](https://visitcount.itsvg.in/api?id=uditdeval&icon=5&color=6)
+
+---
+⭐ If you like my work, consider following me and checking out my repositories.
