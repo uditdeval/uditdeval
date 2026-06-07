@@ -41,7 +41,7 @@ Building AI-powered solutions and contributing to open source while learning sca
 
 ### AWS Academy Cloud Foundations
 
-<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/assets/badges/aws-cloud-foundations.jpeg" width="150"/>
+<img src="https://raw.githubusercontent.com/uditdeval/uditdeval/main/assets/badges/aws%20badge.jpeg" width="150"/>
 
 ---
 
